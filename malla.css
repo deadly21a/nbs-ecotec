@@ -63,7 +63,7 @@ header {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.aprobado, .cursando, .no-cursada {
+.aprobado, .abierta, .no-cursada {
     border-radius: 5px;
     display: inline-block;
     padding: 8px 15px;
@@ -81,7 +81,7 @@ header {
     color: #fff;
 }
 
-.cursando {
+.abierta {
     background-color: #e0d645;
     color: #fff;
 }
